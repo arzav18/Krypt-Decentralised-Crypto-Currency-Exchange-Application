@@ -7,3 +7,5 @@ to buy send and receives Ethereum over blockchain; you can easily saw your last
 transaction detail easily. In fact, there is similar system on the internet, but they are
 less secure found in the existing system.
 
+![Screenshot (25)](https://github.com/arzav18/Krypt-Decentralised-Crypto-Currency-Exchange-Application/assets/66370916/408370a0-e5ef-4ff7-a026-50007dd70650)
+![Screenshot (27)](https://github.com/arzav18/Krypt-Decentralised-Crypto-Currency-Exchange-Application/assets/66370916/db2dceab-5181-427e-9c21-40616015af9a)
