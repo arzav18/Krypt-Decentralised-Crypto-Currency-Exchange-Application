@@ -13,8 +13,7 @@ less secure found in the existing system.
 
 ![Screenshot (27)](https://github.com/arzav18/Krypt-Decentralised-Crypto-Currency-Exchange-Application/assets/66370916/db2dceab-5181-427e-9c21-40616015af9a)
 
-
-<img width="586" alt="Screenshot 2023-05-04 234940" src="https://github.com/arzav18/Krypt-Decentralised-Crypto-Currency-Exchange-Application/assets/66370916/242253cc-b31e-4ad2-b2a4-5891323a88e3">
+![Screenshot (29)](https://github.com/arzav18/Krypt-Decentralised-Crypto-Currency-Exchange-Application/assets/66370916/405fcf74-13a4-4417-be57-b02ca59cf6be)
 
 
 ![Screenshot (36)](https://github.com/arzav18/Krypt-Decentralised-Crypto-Currency-Exchange-Application/assets/66370916/6c656141-1b71-4132-b53e-91813f958bad)
